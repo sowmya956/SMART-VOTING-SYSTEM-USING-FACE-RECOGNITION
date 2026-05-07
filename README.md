@@ -1,6 +1,6 @@
 # SMART-VOTING-SYSTEM-USING-FACE-RECOGNITION
 A secure and intelligent voting platform that uses facial recognition technology to authenticate voters and prevent duplicate or fraudulent voting. This project combines computer vision, machine learning, AI , LLMs and database management to create a modern digital voting solution.
-# Project Overview
+## Project Overview
 The Smart Voting System with Face Recognition is designed to improve the transparency, security, and efficiency of elections. Instead of traditional voter identification methods, the system verifies voters using real-time face recognition before allowing them to cast a vote.
 
 The application captures a voter’s facial image through a webcam, compares it with registered voter data, and grants access only if the identity matches successfully. Each voter is allowed to vote only once, ensuring fairness and eliminating impersonation.
